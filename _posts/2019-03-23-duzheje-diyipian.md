@@ -2,7 +2,7 @@
 layout: post
 title:  "我第一篇博客"
 date:   2019-03-23 23:14:54
-categories: JavaScript
+categories: bokexiangfa
 tags: 前言 结束语
 author: Duzhenje
 ---
@@ -20,4 +20,3 @@ author: Duzhenje
 
 # 结束语
 希望通过这个博客提高口才，提高自我素质。
-
