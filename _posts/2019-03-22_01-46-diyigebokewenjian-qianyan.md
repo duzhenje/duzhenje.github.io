@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "我第一篇博客"
+date:   2019-03-23 23:14:54
 categories: JavaScript
 tags: 前言 结束语
 author: Duzhenje
