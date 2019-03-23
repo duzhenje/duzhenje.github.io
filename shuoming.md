@@ -23,3 +23,5 @@ page\4about.md关于友情链接  分类链接
 关于
 GitHub\_includes\footer.html 网页尾部内容
 那么以上就是一个Jekyll规范的博客的基本内容了，想想也不难吧
+
+page\4about.md 保存关于

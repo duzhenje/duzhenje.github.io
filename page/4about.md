@@ -28,7 +28,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/duzhenje)
+* GitHub：[Duzhenje](https://github.com/duzhenje)
 * email：duzhenje@163.com
 * [Weibo]()
 * [知乎]()
